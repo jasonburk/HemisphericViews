@@ -1,3 +1,10 @@
+---
+date: 2020-08-18 12:00:00
+tags: Hemispheric Views, Podcast, Show Notes
+type: fas fa-microphone
+ogimage: https://cdn.hemisphericviews.com/weblog-og-image.png
+---
+
 In this pilot episode that originally published on Martin's Podcast [Lounge Ruminator](https://loungeruminator.net) we speak about our shared love of digital technology, the pros and cons of product and network lock-in, the trials and tribulations of email and differences in coffee culture. Since we enjoyed recording this episode so much, we have decided to spin it off into a new show, **this show**, Hemispheric Views. We hope you enjoy!
 
 [Micro.blog](https://micro.blog)

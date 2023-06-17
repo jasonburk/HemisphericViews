@@ -1,3 +1,10 @@
+---
+date: 2020-08-18 12:00:00
+tags: Hemispheric Views, Podcast, Transcript
+type: fas fa-microphone
+ogimage: https://cdn.hemisphericviews.com/weblog-og-image.png
+---
+
 Hello, and welcome to Lounge Ruminator. I'm your host, Martin Feld. Great to have you
 on this week. Today is a very special episode. It's a bit of an experiment of online friends
 from the site micro.blog. So I'm joined by the fantastic Andrew Canyon and also equally
