@@ -1,4 +1,2 @@
 # hvnotes
-Hemispheric Views Show Notes and Transcripts Archive
-
-2023-06-15
+Hemispheric Views Show Notes, Transcripts, and Audio Archive.
