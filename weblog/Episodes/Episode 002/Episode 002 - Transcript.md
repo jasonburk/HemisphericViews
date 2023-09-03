@@ -199,7 +199,8 @@ So I feel like rather than being a person who upgrades every year
 I'm sort of I try and spread it out a little bit more and I really wanted to upgrade last year
 And I thought no I could just get an I reckon I can just get one more year out of this thing
 How was the series one holding up was it still working pretty well, or were you kind of already up against the wall with it?
-I have to say apart from a few random days where the battery would die at 11 a.m.
+I
+Have to say apart from a few random days where the battery would die at 11 a.m
 Most days it still does really well. I I will still get to the end of the day and have a quarter of battery left
 It's super slow though
 I never you the only sort of features I can use on the old one
@@ -270,7 +271,7 @@ that you get from iTunes or does it simulate with everything? I'm not really sur
 looked into it extensively, but it seems pretty awesome.
 Yeah, yeah, I was impressed. I stuck on a couple of sci-fi things, you know, things
 with soundtracks or effects that would have a whooshing past you or something. So it's
-not exactly like being in a cinema or a home theater setup, but it does. I can only explain
+not exactly like being in a cinema or a home theater setup, but it does, I can only explain
 it as a kind of TV or movie or an oriented semi surround sound take on what someone like Marco
 Arment would do with voice boost for podcasting. It just gives it a lift and makes it seem like
 it's coming from a certain direction. That's super cool. I like that. Yeah, I don't want to
@@ -289,7 +290,7 @@ podcast on my iPhone and I look at the iPad, it still has the little microphone 
 corner, but it's not actively sending me anything from there. So I don't know. And I'm sure this is
 gonna be one of those things where it works great for me and works for no one else, but
 currently it's been awesome. It's funny how that was an assumed feature. It was kind of like
-I messages in sync or through the cloud. And then they said, yeah, we're bringing this and everyone
+I messages in sync or through the cloud. And then they said, yeah, we're bringing this. And everyone
 I went, "Oh, I thought that was the idea using the internet."
 So yeah, we'll have to see how it goes for others.
 - Yeah, I thought the audio thing,
@@ -324,14 +325,15 @@ animation that it does.
 And now that I'm saying this, I hope I don't ruin it for you, but it does this
 like little, when it's in always on mode, it's almost like it shrinks the UI or
 something.
-And then when you wake it or when it goes back to like active, it kind of grows a
-little, I don't know, it's got an animation thing and I don't really
-fully understand why, but I kind of wish it didn't do that.
+And then when you wake it or when it goes back to like active, it kind of.
+grows a little, I don't know.
+It's got an animation thing and I don't really fully understand why, but I
+kind of wish it didn't do that.
 And I think the new one, cause the new one's brighter, right?
 So maybe it doesn't do that now.
-Cause the current five that I have, it actually does dim, but it sounds
-like maybe it's not going to do that now.
-So I don't know about the six, but in terms of the second hand thing, it doesn't
+Cause the current five that I have, it actually does dim, but it sounds like
+maybe it's not going to do that now.
+So I don't know about the six, but in terms of the secondhand thing, it doesn't
 do that, but I could see that being a really cool thing to be able to just
 see it constantly spinning around.
 It would make it feel very much more, I guess,
@@ -506,33 +508,38 @@ like this, like, well, you know, you do things, but you're not like a pro at it.
 It's like, what does that even mean at this point?
 But I don't know.
 I think it's annoying tying price to the status of the, of your work, I guess, is
-what it sounds like, where you're saying, you know, you can only be a pro if you
+what it sounds like where you're saying, you know, you can only be a pro if you
 can spend $900, but you can't be a pro if you can only spend $700.
-I think if I'm being totally honest with myself, I am, it is an ego driven thing
-for me.
+I think if I'm being totally honest with myself, I am, it is an
+ego driven thing for me.
 I don't, I want to think of myself as needing the pro the best.
-If you actually looked at what I did with an iPad, I'm certain an iPad Air would
-be just fine. But there's something about it where this is my passion, this is my hobby,
-I kind of just want the best. But I think if you benchmarked me using an Air versus
-a Pro, there'd be zero difference in reality. Oh, for sure. I think that'd be for most of
-us. That's the same across... I feel like it's the same issue with why I have, you know,
-6,000 apps on my phone. It's like, it's a just in case kind of scenario. I feel like
-the same with things like the iPad Pro where it's like ProMotion. Well what if I don't have it?
-What if there's that time where I need it? And it's like, okay, we use it to justify the purchase,
-but a lot of times I think you're totally right. If I had a green iPad Air, I'd be thrilled.
-But look, given what you said, Andrew, about the way that you've waited to upgrade your watch
-and also seemingly the way you're going to wait to update your iPad, I think it's perfectly fine
-to splurge on such a thing if you're going to get that pride or sense of passion out of using it
-and you're going to enjoy using the product because and this sort of comes to the point
-that I thought was most impressive or that I enjoyed the most about the presentation. It might
-sound a bit weird but I was really happy to see a segment that was devoted to talking about the
-environment with Lisa Jackson. Do you both remember that bit? Yes absolutely and it really,
-it's really, keep talking about it but it really struck home for me and it reminds me of something
-I'll tell you after. Yeah, yeah, I mean it what I think is really important is you know we want to
-upgrade these devices, we want to move to the latest and greatest thing, but it is Apple's
-responsibility to actually discuss these things where their resources are coming from, how they're
-using their energy, and she did make the point, that's Lisa Jackson, that I think she said that
-Apple's corporate headquarters and retail stores already run on 100% renewable energy but they're
+If you actually looked at what I did with an iPad, I'm certain an iPad Air
+would be just fine. But there's something about it where this is my, this is my passion.
+This is my hobby. I kind of just want the best. But I think if you benchmarked me using
+an Air versus a Pro, there'd be zero difference in reality.
+Oh, for sure. I think that'd be for most of us. That's the same across. That's, I feel
+like it's the same issue with why I have, you know, 6,000 apps on my phone. It's like,
+it's a just in case kind of scenario. I feel like it's the same with things like the iPad
+Pro or it's like ProMotion. Well what if I don't have it? What if there's that
+time where I need it? And it's like hmm okay. We use it to justify the purchase
+but a lot of times I think you're totally right. If I had a green iPad Air
+I'd be thrilled. But look, given what you said Andrew about the way that you've
+waited to upgrade your watch and also seemingly the way you're going to wait
+to update your iPad, I think it's perfectly fine to splurge on such a
+to think if you're going to get that pride or sense of passion out of using it,
+and you're going to enjoy using the product because,
+and this sort of comes to the point that I thought was most impressive or that I
+enjoyed the most about the presentation. It might sound a bit weird,
+but I was really happy to see a segment that was devoted to talking about the
+environment with Lisa Jackson. Do you both remember that bit?
+Yes, absolutely. And it really, it's really keep talking about it,
+but it really struck home for me and it reminds me of something I'll tell you
+after. Yeah, yeah, I mean what I think is really important is, you know, we want to
+upgrade these devices, we want to move to the latest and greatest thing, but it is
+Apple's responsibility to actually discuss these things, where their
+resources are coming from, how they're using their energy, and she did make the
+point, that's Lisa Jackson, that I think she said that Apple's corporate
+headquarters and retail stores already run on 100% renewable energy, but they're
 shifting to carbon neutrality by 2030 throughout the supply chain and that's really interesting
 to me because yes Apple pushes all of this stuff like recycling programs and trade-ins but then
 what's the energy consumption in recycling that? Yes you're giving over a device but
@@ -541,51 +548,51 @@ old product into a new one or a new material? So I'm not saying that Apple's per
 like a lot of companies have a long way to go, but I felt better watching this presentation going
 yep this is really the only company of this size with this technological focus that's
 talking about this in the middle of a massive product showcase. So I was quite happy with that.
-Uh yeah same here. I actually really was happy to see the charger go away. I think you know there's
-people are going to be how they are about things like that. I uh my personal anecdote about it
-it though. Um, so we, every time we buy anything, we save the box that it came
-in, whether we need it or not.
-We just kind of have like a box of boxes, you know, in the basement of, and
-generally because we, we hand stuff down to other people or we sell them or
-whatever.
-And when I give something to somebody, I just, I think it's a nice touch to just
-say like, you know, yeah, you're getting my old phone, but like it comes in, in
-the original box with the original stuff, just kind of a nicer experience for
-whoever's getting it.
+Uh yeah same here. I actually really was happy to see the the charger go away. I think you know
+there's people are going to be how they are about things like that. I uh my personal anecdote about
+it though. Um, so we, every time we buy anything, we save the box that it came in, whether we need
+it or not. We just kind of have like a box of boxes, you know, in the basement of, and generally
+because we, we hand stuff down to other people or we sell them or whatever. And when I give something
+to somebody, I just, I think it's a nice touch to just say like, you know, yeah, you're getting my
+old phone, but like it comes in, in the original box with the original stuff, just kind of a nicer
+experience for whoever's getting it.
 And so when we moved, I was going through this kind of box of boxes just to see,
-like, do we even have some of this stuff still?
-Do we need it?
+like, do we even have some of this stuff still, do we need it?
 And of course there was a bunch of different Apple boxes.
 Uh, in there.
 So I started going through them cause I was going to get rid of a bunch of them.
 And I just want to make sure nothing was left in there.
-Lo and behold, many of these boxes had not only all the original paperwork stuff,
-but a lot of the chargers and cables, because, you know, as you upgrade,
+Lo and behold, many of these boxes had not only all the original paperwork
+stuff, but a lot of the chargers and cables, because, you know, as you upgrade,
 you don't need a new cable every time.
 Some people seem to thrash their cables,
 not sure how that happens, but for me,
-I was going through, I took note of this.
-So in there were four Apple Watch chargers,
+I was going through, I took note of this,
+so in there were four Apple Watch chargers,
 the little puck things, five of the five watt chargers,
 which is the one they just said
 they're not gonna put out anymore,
 so that seems to make sense,
 and two of the 18 watt chargers.
 So in boxes, in a box, I realize this is not the norm,
-but I had a ton of chargers that I just don't need,
-And if, if I don't need them, you know, they're just going to sit in a box
-somewhere.
-So I, I have to think that this is not as bad as a lot of people are making it out
-to be.
+but I had a ton of chargers that I just don't need.
+And if I don't need them, you know,
+they're just gonna sit in a box somewhere.
+So I have to think that this is not as bad
+as a lot of people are making it out to be.
 I think less chargers out there, the better.
-And honestly, the five watt chargers, I mean, they kind of suck anyway.
+And honestly, the five watt chargers,
+I mean, they kind of suck anyway.
 They're just, they're slow.
-So everybody has bought a charger off of, you know, XYZ store, or they have one in
-their car already, or they have one in the house.
-So getting rid of the charger, I think it's a really great thing.
-You know, and I think it's under this, this idea of, of lessening stuff in the
-environment, because you have to think the number of phones and watches that go
-out the door every day with a charger.
+So everybody has bought a charger off of, you know,
+XYZ store, or they have one in their car already,
+or they have one in the house.
+So getting rid of the charger,
+I think it's a really great thing.
+Yeah.
+And I think it's under this, this idea of, of lessening stuff in the
+environment, because you have to think the number of phones and watches that
+go out the door every day with a charger.
 That's a hell of a lot of chargers that are just not getting used.
 And they're being created.
 So all the materials in those chargers are now not available for
@@ -621,15 +628,17 @@ So I think we're in quite a period of transition at the moment with all of these
 Yeah, I mean, unfortunately
 The way of the world is Wall Street. So I think we know where that's gonna land
 Wall Street doesn't care about the environment Wall Street doesn't care about customers Wall Street cares about Wall Street
-Yeah that quarterly earnings call you got to be showing you you got you got your margins covered
+Yep, that quarterly earnings call you got to be showing you you got you got your margins covered
 So if anyone needs an Apple charger, just let me know
 I'm actually short a lightning cable or two if you could fire a couple of those over. That'd be good. Sure. No problem
-So next up on the list, I'm curious to know because I can see both of your faces against it in our nodes default mail clients
-What's the deal here? Yeah, that is confusing to me a little bit. I you know, we got that in iOS 14 is
-We have the ability to now have a default mail client that is not Apple Mail and a default browser, which is not Safari
+So next up on the list
+I'm curious to know because I can see both of your faces against it in our notes
+Default mail clients. What's the deal here? Yeah, that is confusing to me a little bit
+I you know, we got that in iOS 14 is
+We have the ability to now have a default mail client that is not Apple mail and a default browser, which is not Safari
 That's fine. I think that's great choices is good
-Um, on the Safari side, I use Safari anyway, so it doesn't really bother me
-there, but I see that being valuable.
+On the Safari side. I use Safari anyway, so doesn't really bother me there
+but I see that being valuable.
 The mail side is the one that I am curious what you guys feel about this.
 You know, I, I, it was a new feature.
 I was like, Oh, cool.
@@ -637,62 +646,48 @@ I'm going to set a default mail client.
 And as I started thinking about it, I kind of came to the conclusion that I don't
 care with a mail client because I don't understand, like with a browser, people
 are, I messaging you links, you're on the web, you're getting links all over the
-place and when you click a link expecting it to open in Firefox, but it opens in
-Safari, I, yeah, that's, I could see that being annoying, but for mail, if I'm
-going to write an email, I'm already in the mail client.
+place, and when you click a link, expecting it to open in Firefox, but it opens in
+in Safari, I, yeah, that's, I could see that being annoying, but for mail,
+if I'm going to write an email, I'm already in the mail client.
 So that's covered.
-If I'm going to reply to an email again, already in the mail
-client, don't need to do that.
+If I'm going to reply to an email again, already in the mail client.
+Don't need to do that.
 The only scenario that I'm coming up with, and maybe I'm just really
 glaringly missing something here is if there's a mail to link somewhere.
 And I just, when was the last time you ever clicked a mail to link anywhere?
-And nowadays everything's a form on a webpage.
-So that's pretty much taken care of.
-No one really has, you know, send me an email mail link.
-I guess we do on our website.
-So that's one place that's not about thinking of, but other than that, does
-the default mail client really matter?
-It seems like the browser was the big win for everyone.
-And they just kind of threw mail in because it was like, yeah, here's another
-and to make it seem like there's choice.
-- It almost placates the nerds, I think.
-It's a little olive branch, a gesture,
-because like note-taking apps,
-various different things that we want to try,
-email tends to be the thing
-that tech enthusiasts are still talking about.
-Hence, we're talking about it right now.
-So personally, I'm happy with the default mail app.
-I don't think it's horrible.
-Yes, there are things that could be improved.
-The big thing that I turn off is that conversation with you.
-I actually can't understand it.
-maybe I'm stupid, but the way that it groups things together,
-that would be, if I couldn't change that,
-that might be the thing to make me try something else.
-But the fact that I can turn it off
-and have things work in a way that fits my brain logically,
-I stay with it.
-I don't know, what about you, Andrew?
-- That is such a good tip,
-because I too feel a bit old with that conversation for you.
-I think I've got to do that.
-Something changed in email a few years ago,
-where suddenly you got your sent messages threaded in
-with the ones being sent, you know, the inbox sort of threaded in with the sent mailbox.
-And I live in this slightly permanent state of stress these days whenever I delete something
-and I have no idea if I'm deleting the entire thread or an individual mail.
-And I honestly don't quite understand what I, how to manage email anymore in that regard.
-It sounds pathetic, but I don't know how.
-No, no, no, I agree with you because you've tapped on a thing called inbox and you expect to see the messages that came in
-But if you're seeing messages that went out, it's trying to simulate a chat, but it's not a chat
-It's two separate folders mishmash together and I can't negotiate that. Yeah
-Yeah, I don't like it either and and especially when everybody replies and the thread always gets like, you know
+Nowadays everything's a form on a web page. So that's pretty much taken care of. No one really has, you know, send me an email mail link
+I guess we do on our website. So that's one place that's not about thinking of but other than that
+Does the default mail client really matter?
+It seems like the browser was the big win for everyone and they just kind of threw mail in because it was like yeah
+Here's another one to make it seem like there's choice. It almost placates the nerds
+I think it's a little olive branch, a gesture, because like note-taking apps,
+various different things that we want to try, email tends to be the thing that
+tech enthusiasts are still talking about, hence we're talking about it right now.
+So personally I'm happy with the default mail app, I don't think it's horrible. Yes
+there are things that could be improved. The big thing that I turn off is that
+conversation view. I actually can't understand it. Maybe I'm stupid,
+But the way that it groups things together that would be if I couldn't change that that might be the thing to make me try
+Something else but the fact that I can turn it off and have things work in a way that fits my brain logically
+I stay with it. I don't know. What about you Andrew?
+That is such good tip because I too feel a bit old with that conversation for you
+I think I've got to do that something changed in email a few years ago where suddenly
+You got your sent messages threaded in with the ones being set
+you know the inbox sort of threaded in with the sent mailbox and
+I
+Live in this slightly permanent state of stress these days whenever I delete something and I have no idea
+If I'm deleting the entire thread or an individual mail
+And I honestly don't quite understand what I how to manage email anymore in that regard
+It sounds pathetic, but I don't know how no no no I agree with you because you've tapped on a thing called inbox
+And you expect to see the messages that came in but if you're seeing messages that went out
+It's trying to simulate a chat, but it's not a chat
+It's two separate folders mishmash together, and I can't negotiate that yeah
+Yeah, I don't like it either and and especially when everybody replies and the thread always gets like you know
 Quoted back at you in in its entirety each time
 So you you can kind of one minute one the latest email in the thread basically contains everything anyway
-And at least then it's one distinct entity that you can delete move whatever. I never know what I'm doing
-Am I moving a thread or removing a mail message? I don't know so that's my old man whinge of the day
-Default mail clients well yeah, I thought it would be something I'd get into as well
+And at least then it's one distinct entity that you can delete move whatever
+I never know what I'm doing Emma am I moving a thread or a moving a mail message. I don't know
+So that's my old man whinge of the day
+Default my mail clients well yeah, I thought it would be something I'd get into as well
 But because I don't like I don't like mail on iOS from version 13 onwards
 IOS 13 before that it was fine. They did all those changes in 13 and they said he you know
 They hid all the buttons behind that
@@ -1049,13 +1044,13 @@ And I'm sure there's probably a digital version out there that sort of flips ove
 If you could combine that with a watch
 That'd be pretty cool.
 Well my digital version was in the old Mac OS X dashboard widget section and I don't
-know if either of you two were Lost fans like the TV show with the 108 minute ticker.
-Oh yeah.
-Yeah and every 108 minutes my computer would make a screeching sound and I had to put in
+know if either of you two were Lost fans, like the TV show with the 108 minute ticker.
+Oh, yeah.
+Yeah, and every 108 minutes my computer would make a screeching sound and I had to put in
 the numbers 4, 8, 15, 16, 23 and 42.
 That was the closest I got to having something like that at home.
 Push the button brother!
-Yeah that's Desmond isn't it?
+Yeah, that's Desmond isn't it?
 Brilliant.
 (laughs)
 Love that show, except for the ending.
@@ -1070,279 +1065,304 @@ or shared something, I don't remember.
 I sent some link to someone.
 Was it you, Andrew, that I sent?
 I sent you like a file or something.
-Yeah, you yeah, it was because I was I was really impressed because you sent me a link to a file and
-The kind of thing that you would normally get from somebody that would be a dropbox download or something like that
-and it was a
-Linked from your website. So you had a I think it was get dot
-Bert dot IO or something along those lines camera what the the prefix was? Yeah
-But yeah, and I thought well, that's really cool. And I was just curious as to
-How you were doing that? Are you was it? Are you literally just uploading it to a file storage?
-you know to your web server space or and
-How are you getting that to all hang together? And is it something that is you have systematized or is it kind of a
-You know stuck together with chewing gum and it's a little bit stuck together, but it's pretty straightforward actually
-Um, it is, yeah, it's get.burke.io.
+- Yeah, you, yeah, it was.
+Cause I was, I was really impressed cause you sent me a link to a file and the kind
+of thing that you would normally get from somebody that would be a Dropbox download
+or something like that.
+And it was a linked from your website.
+So you had a, I think it was get.berk.io or something along those lines.
+I can't remember what the prefix was.
+But yeah, and I thought, well, that's really cool.
+I was just curious as to how you were doing that.
+Are you, was it, are you literally just uploading it to a file storage, you
+know, to your web server space or, and how are you getting that to all hang together?
+And is it something that is you have systematized or is it kind of a, you
+know, stuck together with chewing gum?
+And
+uh, it's a little bit stuck together, but it's pretty straightforward actually.
+Um, it is, yeah, it's get.berk.io.
 And I just, I got tired of sending, um, well, I don't really use Dropbox anymore.
 So that didn't, that wasn't an option.
 Usually you would just throw something in there and send somebody a link, but
 I didn't, it wasn't using Dropbox.
 Um, iCloud sharing.
 I don't think that was even a thing yet.
-And then there's just so many different random websites where you can upload
-stuff and send people links, but it was like, I don't, what am I,
-where am I putting these files?
+And then there's just so many different random websites where you can
+upload stuff and send people links.
+But it was like, I don't, what am I, where am I putting these files?
 It seems kind of weird.
-I'd rather just kind of know where I'm putting stuff
-and control it myself.
-So it's all really built on top of an app called Dropshare,
-which is, it's just a, it's a Mac app.
+I'd rather just kind of know where I'm putting stuff and control it myself.
+Um, so it's all really built on top of, uh, an app called dropshare, which is,
+it's just a, it's a Mac app.
 It's an iOS app.
-I really mainly use it on the Mac,
-but you can use it on iOS as well.
-And they have like cloud accounts now
-where you can just share it directly using their stuff.
-Oh, it's on Setapp also.
-- It's on Setapp.
-- So if you have Setapp, then you already have it,
-which is great.
-Setapp is really, I was really skeptical at first, not so much in the idea of it, but
-I just didn't think it was really going to work.
-But given the number of apps that keep showing up on there from pretty prominent developers
-and a lot of indie developers too, I have to assume it's working to some degree for
-them.
+I really mainly use it on the Mac, but you can use it on iOS as well.
+Um, and they have like cloud accounts now, or you can just share
+it directly using their stuff.
+Um, and Oh, it's on setup also.
+It's on setup.
+So if you have a setup, um, then you already have it, which is great, which
+that setup is really, I was really skeptical at first, not so much.
+in the idea of it, but I just didn't think it was really going to work.
+But given the number of apps that keep showing up on there from pretty
+prominent developers and a lot of indie developers too, I'm, I have to assume
+it's working to some degree for them.
 Otherwise they wouldn't be on there.
-But anyway, Setapp, I feel like it's a really great service.
+But anyway, set up, I feel like it's a really great service.
 I hope it's not terrible for the people that are on it.
-I haven't heard that it has been so ignorance is bliss, I guess.
-But anyway yeah, Dropshare.
+I haven't heard that it has been.
+So ignorance is bliss, I guess.
+But anyway, yeah, Dropshare.
 And then the nice thing about Dropshare is it allows you to use kind of any
 backend that you want.
 So you can use like Amazon S3, which again, I don't use cause it's Amazon.
-Trying to get away from that a little bit, but I use something called Wasabi,
-which is like an S3 compliant alternative.
-Um, it's cheaper than.
-Barebones use that for their you Jimbo sync a few years ago. Okay. Yeah. Yeah, it's fantastic. It's super fast
-It's cheaper than s3 and it's not Amazon which if that's important is a good thing
-But anyway, I just use that as a back end and then it makes it super simple
-I drag a file up to my menu bar it
-Uploads it to that
-automatically copies a link to my clipboard and then I can send it and you can also create really cool like like I haven't
-Done this yet, but you can make a custom landing page
-So that thing that I sent you I can make it look like whatever I want and have you have the file kind of nicely
-Presented so if you were using it for like a business type of situation, you can have a nice landing page
-And then you can use custom domain. So I just set one up for get dot my domain
-So now everything I send is get dot
-Burke dot IO slash and then the file name
-so it's it's just like it's a nice way to know where you're sharing things and
-Just know that they're there and then also be able to just get rid of the file
-Entirely if you need yeah
-So it has an audit trial you can kind of see who's
-Whose access to download the file that kind of thing? No. No, there's no like logging of you know
-Andrew downloaded this file 14 times. It's nothing like that. If you needed something like that, you'd more want to go with
-You know one of the many file services out there
-This is really I think more for for a personal use type of thing or just like a small business, too
-All right, but it's just it's nice to be able to send somebody a link. That's not you know
-Oh now you need to go get an account because I sent you a you know
-A Google Drive link and you don't have Google Drive or whatever. It's just it's very simple back to basics
-Normal download off the internet. No, they don't need anything special. Mm-hmm. I was really impressed by it and
-Maybe that's a sad reflection on me. I don't know
-But I thought was cool. So I was just interested to know how you'd done that. So thank you
-I think I have a blog post on it somewhere so I can link that too
-That'll be good. And then I can then I'll have a project over the next week
-Yeah, you can do that and YouTube DL and you'll be set
-That's it's still on the list. What have you got for us next Martin?
-You've been you've been sort of been a bit quiet over the last little while and you're I'm looking at the list here
-Oh, well, I mean, I don't know if you want to because I know Jason had the thing about test flight
-You had the screenshot here. So I have more to contribute. Don't worry. Well, look, I mean, I don't know
-Did you want to say anything about those two things first because I was quite fascinated by the addition of the new segment
-Oh the thing I found in my house
-Yeah, yes, what did you find in your house? You've added something in the notes there
-So one of the great joys of moving is you get to rediscover?
-Everything that you own
-For for better or worse and this is I think for better, but I'm finding a lot of old
-Stuff, you know, it's making me realize that
-I'm a collector. I like to collect things. I think a lot of us do
-But I thought this one was particularly interesting. Maybe not super
-Interesting to everybody that listens to the show but what something I found
-in my house or in a box rather that I find to be pretty cool is a
-Gameboy micro
-Famicom 20th anniversary edition
-That's a mouthful. What's all that about?
-Probably nobody knows what that is
-I think everybody can probably know what a Gameboy is that seems like a pretty easy one and I remember something about the super
-Famicom or something like that that was kind of legendary or something was it? Yep. Yep
-So like in Japan it was called that here it became the NES or the Nintendo Entertainment System
-So this was a Game Boy Game Boy micro so small
-Released in 2005 both in Australia and the US so you guys had it too
-But it's just this tiny tiny Game Boy
+I'm trying to get away from that a little bit, but I use something called
+Wasabi, which is like an S3 compliant alternative.
+It's cheaper than...
+Barebones used that for their Ujimbo sync a few years ago.
+Oh, okay.
+Yeah.
+Yeah.
+It's fantastic.
+It's super fast.
+It's cheaper than S3 and it's not Amazon,
+which if that's important is a good thing.
+But anyway, I just use that as a backend
+and then it makes it super simple.
+I drag a file up to my menu bar,
+it uploads it to that,
+automatically copies a link to my clipboard
+and then I can send it.
+And you can also create really cool,
+like I haven't done this yet,
+but you can make a custom landing page.
+So that thing that I sent you,
+I can make it look like whatever I want
+and have you have the file kind of nicely presented.
+So if you were using it for like a business
+type of situation, you can have a nice landing page.
+And then you can use custom domains.
+So I just set one up for get.mydomain.
+So now everything I send is get.burk.io/
+and then the file name.
+So it's just like, it's a nice way to know
+where you're sharing things
+and just know that they're there.
+And then also be able to just get rid of the file entirely if you need to.
+So it has an audit trial.
+You can kind of see who's, who's access to download the file, that kind of thing.
+No, no, there's no like logging of, uh, you know, Andrew downloaded this file 14
+times, it's nothing like that.
+If you needed something like that, you'd more want to go with, uh, um, you know,
+one of the many file services out there.
+This is really, I think more for, for a personal use type of thing, or just
+like a small business too.
+Right.
+But it's just, it's nice to be able to send somebody a link.
+That's not, you know, Oh, now you need to go get an account because I sent you a,
+you know, a Google drive link and you don't have Google drive or whatever.
+It's just, it's very simple.
+Back to basics, normal download off the internet.
+No, they don't need anything special.
+Hmm.
+I was really impressed by it and maybe that's a sad reflection on me.
+I don't know.
+Um, but I thought it was cool.
+So I was just interested to know how you'd done that.
+So thank you.
+- I think I have a blog post on it somewhere.
+So I can link that too.
+- Oh, that'd be good.
+And then I can, then I'll have a project
+over the next week.
+- Yeah, you can do that and YouTube DL and you'll be set.
+- That's it's still on the list.
+What have you got for us next Martin?
+You've been, you've sort of been a bit quiet
+over the last little while
+and you're, I'm looking at the list here.
+- Oh, well, I mean, I don't know if you want to,
+because I know Jason had the thing about test flight
+and you had the screenshot here.
+So I have more to contribute, don't worry.
+Well, look, I mean, I don't know,
+did you want to say anything about those two things first?
+'Cause I was quite fascinated
+by the addition of the new segment.
+- Oh, the thing I found in my house.
+- Yeah.
+- Yes, what did you find in your house?
+You've added something in the notes there.
+- So one of the great joys of moving
+is you get to rediscover everything that you own
+for better or worse.
+And this is, I think for better,
+but I'm finding a lot of old stuff, you know, it's making me realize that I'm a
+collector.
+I like to collect things.
+I think a lot of us do, but I thought this one was particularly interesting.
+Maybe not super interesting to everybody that listens to the show, but what
+something I found, uh, in my house or in a box rather that, uh, I find to be
+pretty cool is a Game Boy micro Famicom 20th anniversary edition.
+That's a mouthful.
+What's all that about?
+Probably nobody knows what that is.
+I think everybody can probably know what a Game Boy is.
+That seems like a pretty easy one.
+And I remember something about the Super Famicom or something like that.
+That was kind of legendary or something.
+Was it?
+Yep.
+Yep.
+So like in Japan, it was called that here it became the NES or
+the Nintendo Entertainment System.
+So this was a Game Boy, Game Boy Micro.
+So small, uh, released in 2005.
+both in Australia and the US, so you guys had it too.
+But it's just this tiny, tiny Game Boy
 that is horribly uncomfortable to use,
 probably would cripple you
 as soon as you start trying to use it,
 but it's just adorable.
 It's the smallest little pocketable Game Boy.
-Oh, it has a charging port that is super predatory.
+Oh, it has a charging port that is super proprietary.
 I can't even find it.
-Can't find one online at this point that is reasonable.
+Can't find one online at this point
+that is reasonable.
 So I still need to find that so I can charge it up.
-But I just thought it was this--
-- Game Boy micro USB, huh?
+But I just thought it was this Game Boy micro USB, huh?
 Yeah, exactly.
 I need to find that.
 Um, but it was just this super cool little thing that I found when I was looking
-through stuff and it kind of made me think like every once in a while, I think I go
-through this phase of like, why am I collecting old crap?
-You know, like, why do I have 15 different iPhones on a shelf next to my desk?
-Like that's so stupid, but.
-I don't know.
-I just think it's kind of cool to keep stuff from the past every once in a while
-and kind of look back at it from a technology standpoint and a, see how far
-we've come, but also I think more intriguing to me is just some of the
-ideas people had in the past for what was a good idea versus a bad idea.
+through stuff and it kind of made me think like every once in a while,
+I think I go through this phase of like, why am I collecting old crap?
+You know, like why do I have 15 different iPhones on a shelf next to my desk?
+Like that's so stupid.
+But I don't know, I just think it's kind of cool to keep stuff from the past
+every once in a while and kind of look back at it from a technology standpoint.
+And a, see how far we've come.
+But also I think more intriguing to me is just some of the ideas people had in the
+past for what was a good idea versus a bad idea.
 And this is one of those ones where it was like, they could do it.
 So they did it.
 And I'm just not sure there was really a reason to do it.
 Um, it's just so small.
-There's like shoulder buttons.
-There's a volume rocker.
-Screen brightness.
-It has a little speaker, it has a headphone jack in it,
+There's like shoulder buttons, there's a volume rocker,
+screen brightness, it has a little speaker,
+it has a headphone jack in it,
 which when you look at it is huge
 compared to the actual size of the thing.
 It's got, yeah, it's got L and R triggers on it.
-The resolution is 240 by 160.
-So super high resolution.
+The resolution is 240 by 160, so super high resolution.
 The screen--
 - Are we talking something about the size
 of this Playdead device that's coming out?
 Or is it bigger or?
-- It's similar to that.
+Uh, it's similar to that.
 That's kind of more of a square.
-This was maybe be like, if you took two of these and stuck them next to each other,
-it would probably be about the, I haven't seen a play date in person, but I've
-kind of seen like the little AR thing.
+This was maybe be like, if you took two of these and stuck them next to each
+other, it would probably be about the, I haven't seen a play date in person, but
+I've kind of seen like the little AR thing.
 I think it's about that size.
 So probably about two of these stuck together would be the size of the play date.
 The screen size is like, is 51 millimeters, like two inches.
-I've been a cozying a cozy art in for an image of the, uh, this thing.
-I think I may have found it amongst all the different, there's a trait.
-My old technology is building trees.
+I've been a cozying a cozy acting for an image of the this thing.
+I think I may have found it amongst all the different.
+There's a tree.
+Oh, yes, my old technology is building trees.
 I love it.
-(both laughing)
-- I think I found the right one.
-I put this in the links, but it's,
-so it almost looks like a miniature.
-It's a horizontal sort of, this thing's silver.
-The picture in this is silver.
+I think I found the right one.
+Put this in the links, but it's um, so it almost looks like a
+miniature.
+It's a horizontal sort of this thing silver the picture and
+this is silver.
 Does that sound?
-- Yeah, the original one was just, was all silver.
-- Right.
-- This one, this one is a special one.
+Yeah, the original one was just was all silver.
+Right.
+This one, this one is a special one.
 It's this gorgeous gold and like dark red.
-It just looks good.
-If you're a fan of Nintendo or Game Boys
-or anything nostalgia in general, you would like this.
-- My first ever one I just wanted to add in there
-was the Game Boy Color with the ice design,
-which was undoubtedly a ripoff
-of the whole iMac translucent plastic thing,
-but I loved it.
-Yeah, and I'd sit there with the little IR blaster
-with some of my old friends playing Pokemon.
-You couldn't really move away from each other,
-but my goodness was that cool at the time.
-- I know, wasn't that amazing, the IR thing?
-Like that just seemed, that was like space age technology.
-That was so mind blowing back when that was a thing.
-Like doing this wireless.
-- But the fact that it was instant.
-It was instant, there was no waiting or anything.
-- No more sync cable connected up, none of that.
-(laughing)
-- And this Game Boy Mini, did it take the Game Boy cartridges
-Or was it its own thing?
-Uh, it uses the Game Boy Advance cartridges, which is also funny
-because the cartridge itself is like two thirds the size of the actual unit.
-Oh, and it's slotting to the bottom.
-I'm just found another image here.
-Yep.
-Yep.
-It's, it's totally a weird, just some, some engineer was like, Hey, I could do
-this and they're like, all right, go for it.
+It just, it just looks good.
+If you're a fan of Nintendo or Game Boys or anything nostalgia in general, you would like
+this.
+My first ever one I just wanted to add in there was the Game Boy Color with the ice
+Design which was undoubtedly a ripoff of the whole iMac translucent plastic thing, but I I loved it
+Yeah, and I'd sit there with the little IR blaster with some of my old friends playing Pokemon
+You couldn't really move away from each other. But my goodness was that cool at the time?
+I know wasn't that amazing the IR thing like that just seemed that was like space age technology
+That was so mind-blowing back when that was a thing like doing this wireless. But the fact that it was instant
+Yeah, it was instant. There was no waiting. No more sync cable connected up. None of that
+And this Game Boy Mini did it take the Game Boy cartridges or was it its own thing
+It uses the Game Boy Advance cartridges
+Which is also funny because the cartridge itself is like two-thirds the size of the actual unit
+I and it slot into the bottom. I'm just found another image here. Yep. Yep
+it's it's totally a weird just some
+Some engineer was like "Hey, I could do this" and they're like "Alright, go for it."
 So what games did you have for this?
-So the one I have in here right now is Super Mario 3, and that's the only one I can actually find.
+So the one I have in here right now is Super Mario 3 and that's the only one I can actually
+find.
 I think it might be the only one I kept for this particular system.
 And do you remember playing it much or was this like a short-lived?
-No, this one was strictly just bought because it was kind of a novelty.
-You really don't want to play anything on this for any more than, you know, five minutes.
+No this one was strictly just bought because it was kind of a novelty.
+You really don't want to play anything on this for any more than five minutes.
 It's just so uncomfortable to use.
-But it's so small it fits in your pocket so it's like it was just such a nice thing to be able to
-have a full Game Boy with you at all times before there were phones or anything like that. If you
-wanted to play a game you're either dragging around a you know a full-size thing or this
-in your back pocket. So it's a it's a weird thing that they'd made and I just I just love it because
-'cause it's just so out there.
-- You don't get that anymore, do you?
+But it's so small it fits in your pocket.
+So it was just such a nice thing to be able to have a full Game Boy with you at all times
+before there were phones or anything like that.
+If you wanted to play a game, you're either dragging around a full-size thing or this
+in your back pocket.
+It's a weird thing that they'd made and I just love it because it's just so out there.
+You don't get that anymore, do you?
 The weird one-off devices.
-Everything is a platform now
-and everything has so much riding on it that,
-apart from maybe that's why the panic game,
-what are we calling it?
-The yellow thing with the crank?
+Everything is a platform now and everything has so much riding on it that apart from maybe
+that's why the Panic game, what are we calling it?
+The Playdate.
+The yellow thing with the crank.
 Playdate.
-I think that's probably why that's so fascinating
-because it's the only sort of thing
-that is being randomly made on a whim.
-- Yeah, well, it has to come from a company
-that has that kind of risk-taking
-and vision to do something like that.
-You're not gonna get that from many of these companies now.
-They just can't.
-There's no--
-- It's just too hard.
-- It's too driven by, again, the bottom line
-that we were talking about before,
-to be able to take a risk on something
-that might or might not work.
-- Now, this will derail things a little bit
-from technology, if that's okay,
-But after seeing your note there about this new segment,
-finding an old thing in your house, Jason,
-I did actually stumble upon something
-which may challenge your device for pure obscurity.
-Would you like to know what it is?
-- Oh, absolutely, yeah.
-I wanna know about everything old in your house.
-- Beautiful.
-Well, this is the first old thing,
-and I didn't go purposely looking for this.
-I actually stumbled upon it when looking
-for old Sydney Olympic tickets for a recent episode
-of the rumination that I do, and Natasha was on it.
-And I found this and it's the Centenary of Federation Medallion for Primary School Students
-from 2001.
-Do you have any idea what I just said?
-I don't, but I'm going to guess.
-It sounds like a participation medal that you got at a school sporting event during
-some kind of special holiday.
-You know what's great about what you just said, you actually assumed even more effort
+I think that's probably why that's so fascinating.
+Because it's the only sort of thing that is
+Being randomly made on a whim. Yeah. Well, it has to come from a you know a company that has that kind of
+Risk taking and vision to do something like that. You're not gonna get that from many of these companies now
+They just can't there's no
+It's just too hard
+It's too driven by again the bottom line that we're talking about before to be able to take a risk on something that
+Might or make might not work
+Now this will derail things a little bit from technology if that's okay but after
+seeing your note there about this new segment, finding an old thing in your
+house Jason, I did actually stumble upon something which may challenge your
+device for pure obscurity. Would you like to know what it is? Oh absolutely yeah I
+want to know about everything old in your house. Beautiful. Well this is the
+first old thing and I didn't go purposely looking for this I actually
+stumbled upon it when looking for old Sydney Olympic tickets for a recent
+episode of the rumination that I do and Natasha was on it and I found this and
+it's the Centenary of Federation medallion for primary school students
+from 2001. Do you have any idea what I just said? I don't but I'm gonna guess it
+sounds like a participation medal that you got at a school sporting event
+during some kind of special holiday.
+- You know what's great about what you just said?
+You actually assumed even more effort
 than what was required to get this medal.
-So you're correct that it's a medal, it was given out to everyone, but it wasn't for a
-sporting event.
-Federation in the context of Australia was when all of the Australian colonies came together
-to federate as one nation in 1901.
-So in 2001, a hundred years afterwards, after all the brouhaha of the Sydney Olympics, every
-Every kid in primary school was hyped up and given this medallion, which I'm holding right
-in my hand right now.
-And it's hilarious.
-It's this circular gold colored medallion with a bunch of kids piecing together the
-Australian map and on it is printed, Australia.
-It's what we make it.
-And it's in this plastic collectors thing.
-I'll have to send a picture so we can link it.
-But it's even got a little blurb on the back to inspire all young Australians.
+So, you're correct that it's a medal,
+it was given out to everyone,
+but it wasn't for a sporting event.
+Federation in the context of Australia
+was when all of the Australian colonies
+came together to federate as one nation in 1901.
+So in 2001, a hundred years afterwards,
+after all the brouhaha of the Sydney Olympics,
+every kid in primary school was hyped up
+and given this medallion,
+which I'm holding right in my hand right now,
+and it's hilarious.
+It's this circular gold-colored medallion
+with a bunch of kids piecing together the Australian map,
+and on it is printed, "Australia, it's what we make it."
+And it's in this plastic collector's thing.
+I'll have to send a picture so we can link it,
+but it's even got a little blurb on the back
+to inspire all young Australians.
 What do you make of that?
-Oh, so you, you really did nothing for this.
-No, no.
-We were purely citizens.
-We turned up to school, we got a medal,
+- Oh, so you really did nothing for this.
+- No, no, we were purely citizens.
+We turned up to school and we got a medal,
 and just so you know, it was designed by John Skillington
 and produced by the Royal Australian Mint.
 So they put all the effort in, we did nothing.
@@ -1351,73 +1371,56 @@ So that's what I bring to the table today for this segment.
 Now, I was a bit too old to still be in school
 when they were giving those out, but--
 - Sure.
-- I still was given a coin when I was a young boy,
-and it was for the, I still remember it,
-I remember the folder it came in.
-It was for the Bicentennial of Australia.
-- Oh.
-- So yes, in 1988, that was 200 years post,
-what we were educated as the founding
-and discovery of Australia in 1788,
-when basically white people arrived.
-So, and in 1988, we were given a coin
-to commemorate the Bicentennial
-'cause it was a really big deal.
-Wow, you guys are really, really into time-based coins.
-- Yeah, it was a lovely coin in a display folder.
-And I kept mine, I think I could probably still find mine.
-I know my wife has one too.
-We're both at school, but yes,
-I think basically it was the,
-well, probably the conservative governments
-trying to maintain the status quo.
-- Oh, for sure.
-- What are these coins made of?
-Are they like a stainless steel or are they kind of an unknown material cased in plastic?
-Mine was encased in plastic.
-It was a shiny silver, which I don't know.
-I don't know about metals very well.
-What would that be?
-Would it make it nickel plated or something?
-I don't know.
-It wouldn't have been expensive because they had to produce a few million of them for every
-child in school.
-So it looked fancy, but I don't think the street value of the coin was very high.
+Still was given a coin when I was a young boy and it was for the I still remember I remember the folder it came in
+It was for the bicentennial of Australia. Oh
+So yes in 1988 that was 200 years
+post
+what we were educated as the
+founding and discovery of Australia in
+1788 when basically white people arrived
+so and in 1988 we were given a coin to commemorate the
+Bicentennial because it was a really big deal
+Wow, you guys are really really into time based coins
+Yeah, it was a lovely point in a display folder and I kept but I think I could probably still find mine
+I
+Know I know my wife has one too
+We're both at school, but yes, we I think basically it was the
+um, we're probably the conservative governments trying to maintain the status quo.
+Oh, for sure.
+What are these coins made of? Are they like, like a stainless steel or are they kind of an
+unknown material cased in plastic?
+Mine was encased in plastic. It was, it was a shiny silvers, which I, I don't know. I don't
+know my metals very well. What would that be? Would it make it nickel plated or something?
+I don't know. It wouldn't be, it wouldn't have been expensive because they had to produce a few
+million of them for every child in school. So it looked fancy but I don't think the street
+value of the coin was very high.
 See, I knew bringing this up, Andrew, that you would have to have something similar to
-this.
-I didn't know what it would be, but Australians just like to hand out stuff like this.
-Good on you.
-Like whether it's rosemary on Anzac Day, so you can whiff herbs off your school uniform
-shirt, you're going to have something.
-I probably just confused all the Americans again.
-Here it is.
-I found a picture of it.
-I've got a price on it.
-I can give you a price.
-- On gumtree.com.au, which is a classified site
-here in Australia, you can buy a Bicentennial Memento coin
-ranging from $15 up to maybe $25.
-Oh, here's one, $5, that must be trashed.
-- 15 bucks, I gotta say, that's about $15 more
-than I would have expected.
-(laughing)
-- But it's a real thing, Jason, seriously.
-If you go to any Australia post office,
-Typically, at least to the ones that I've been to, to the right of the entrance, before
-you go up to the counter, there will be display cabinets full of commemorative coins.
-If you want something with the Queen's face on it that's different from usual, you can
-find it at the post office.
-I think Australia has way too much metal.
-You guys need to find something better to do with that metal.
-This coin thing is really not...
-The gauntlet's been thrown down.
-You started this segment and you've just been outdone by coins.
-I know.
-is that that's it I'm stepping it up I'm my challenge is you have to find the
-oldest thing in your house that's original oh wow oh okay like not part of
-the house just like a thing you have could be given to you could have been
-something you bought doesn't matter and it cannot be either of these coins are
-we done I think so I think so I feel like like I took this in a weird
-direction thanks for that. I don't feel like there's anything better than the coin at this point.
-That just kind of...
+this. I didn't know what it would be but Australians just like to hand out stuff like this. Good
+on you. Like whether it's rosemary on Anzac Day, so you can whiff herbs off your school
+uniform shirt, you're going to have something. I probably just confused all the Americans
+again.
+I found a picture of it
+I've got a price on it. I can give you a price. It's on
+On gumtree.com.au which is a um, like a classified site here in Australia. You can buy a bicentennial memento coin
+ranging from
+$15 up to maybe
+$25. Oh, here's one five dollars. That must be trashed 15 bucks. I gotta say that's about $15 more than I would have expected
+But it's but it's a real thing Jason seriously if you go to any Australia post post office
+Typically at least to the ones that I've been to to the right of the entrance before you go up to the counter there will
+Be display cabinets full of commemorative coins if you want something with the Queen's face on it
+That's different from usual you can find at the post office
+I think Australia has way too much metal you guys need to find something better to do with that metal
+This coin thing is really not
+The goal you got let's been thrown down you
+You started this segment and you've just been outdone by coins. I
+Know how sad is that?
+That's it. I'm stepping it up. I'm
+My challenge is you have to find the oldest thing in your house
+That's original. Oh, wow. Oh
+Okay
+Like not part of the house just like a thing you have could be given to you could have been something you bought
+Doesn't matter and it cannot be either of these coins
+Are we done? I think so. I don't know. I think so. I feel like I took us in a weird direction.
+Thanks for that. I don't feel like there's anything better than the coin at this point.
+Like that just kind of...
 [MUSIC PLAYING]

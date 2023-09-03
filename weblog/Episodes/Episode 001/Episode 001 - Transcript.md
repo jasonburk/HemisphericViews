@@ -452,8 +452,8 @@ I think kind of probably like Vegemite a little bit
 to wrap that back around,
 people either love or hate HomeKit.
 I'm in the love camp for sure.
-I think it's just, it's what we've as nerds and geeks
-always wanted technology to be
+I think it's just, it's what we've,
+as nerds and geeks always wanted technology to be
 is where you could speak to your house, right?
 And actually have it perform things and be useful.
 So I, we, my wife and I both love HomeKit.
@@ -777,8 +777,8 @@ But I sure she'll say she'll talk to it and ask for the lights to be on and off 
 with regards to other technology
 They don't get into it like I do I think that's probably not that surprising
 All right you Jason
-It's you're telling me your family's not excited about the new fan you put in your NAS. They're not they're not really in my action. I
-Told I told my wife I did that and she's like, that's nice
+Yes, you're telling me your family's not excited about the new fan you put in your NAS. They're not they're not really in my action. I
+Told I told my wife I did that and she's like that's nice
 I'm so excited about I put it in an extra topic on today's show. I thought the people want to know
 I was excited about it still want to hear about you do you want cuz it's like why I
 Clicked on a link just to go look and see what it looked like
@@ -853,8 +853,8 @@ I was like saying, "Yeah, Apple revolutionized USB, dude.
 They were the first ones with it."
 But no, he just wanted to get on his little rant.
 And I finally--
-- Not to mention USB-C is also used by other companies.
-But yeah, continue.
+- Not to mention USB-C is also used by other companies,
+but yeah, continue.
 - Yeah, so I finally, finally managed to convince him
 that that was the one I wanted.
 Here's my money.
@@ -1201,26 +1201,22 @@ Yeah, and I think we sort of become evangelists of something because maybe we've
 Or maybe we've read it on a tech blog or site
 But we've identified a problem that has to be fixed and then we go and explore it ourselves
 Apply it work out the way that works for us and then bang we found our solution. Whereas the unwitting
-victim of the recommendations of the suggestion never explored that problem. It wasn't an issue
-for them. You've come along and just said, "Yeah, have I got a solution for you?" So you're sort of
-an unwelcome salesperson in a way. So I'm always trying to think, "How can I be more self-aware
-in that sense and not be that annoying guy?" Even if it comes from a good place.
-The computer fan guy at the computer store. That's who we actually are. I just realized
-that's terrible. No, say it ain't so.
-So is that I think just about wrap us up for today. Is there anything else you two wanted to talk about?
-I guess we should go over our sponsors which are Casper, Squarespace and Linode. I want to thank
-them. It's not Linode is it? Oh shoot is it? I gotta read the copy. Oh damn it no I think you're
-right it's Linode. What we do need to promote though, forget the sponsors, we need to promote
-our own site and we have gone all out, well Jason went all out, and we have got a website,
-We got inline players you can get you want to listen to this podcast you can do it hemispheric views.com
-That gets you all the information you need
-Right there listen enjoy subscribe tell your friends Apple podcasts
-Castro Google podcasts overcast pocket casts RSS
-Spotify
-Probably 15 other ones at this point. This is the most over engineered podcast
+Victim of the of the recommendations of the suggestion never explored that problem. It wasn't an issue for them
+You've come along and just said yeah, have I got a solution for you?
+So you're sort of an unwelcome salesperson in a way
+So I I always trying to think how can I be more self-aware in that sense and not be that annoying guy?
+Even if it comes from a good place the fan the computer fan guy at the computer store. That's who we actually are
+I just realized that's terrible say that you know
+So is that I think just about wrap us up for today. Is there anything else you two wanted to talk about? I
+I guess we should go over our sponsors which are Casper Squarespace and Linode I want to thank them.
+Oh shoot is it I gotta read the copy.
+What we do need to promote though forget the sponsors we need to promote our own site and we have gone all out well Jason went all out and we have got it we got a website we got.
+Inline players you can get you want to listen to this podcast you can do it hemispheric views calm that gets you all the information you need.
+Right there listen enjoy subscribe tell your friends apple podcast Castro Google podcast overcast pocket cast RSS Spotify.
+Probably 15 other ones at this point this is the most over engineered podcast.
 For you episode one that you will ever come across and I think for that I think we should all give ourselves a little round of applause because the back end is humming.
 Now we just need the content foundations of that.
-I can subscribe is that it is that this is that where we do that I think so tell your friends tell your friends go to go to that person don't tell them that only focus tell them about hemispheric views this amazing new podcast.
+I can subscribe is that it is that this is that where we do that I think I tell your friends tell your friends go to go to that person don't tell them that only focus tell them about hemispheric views this amazing new podcast.
 coming to you fortnightly that's bi-weekly for Americans and listen and enjoy.
 But Andrew I have a question is it free?
 Yes it is.

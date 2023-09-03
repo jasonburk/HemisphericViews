@@ -1,11 +1,3 @@
-# Episode 090 - Notes
-#Podcasting/Hemispheric Views#
-
-Title: =if(isblank(($c19),””,f19/2)
-
-Description: Hopefully, you use this podcast to fall asleep because an actual Excel formula is read aloud. I know. Right? New jobs, waking up early, and a few Australianisms to start your day! Who would you guess is today’s show sponsor!?
-
-
 ## _Starting with Austrailianisms_ 00:00:00
 - [Twiggy Sticks](https://www.smokedandcured.com.au/product/hi-mountain-snack-sticks-twiggy-sticks/) 🥩
 - [Carolina Reaper](https://en.wikipedia.org/wiki/Carolina_Reaper) 🌶️

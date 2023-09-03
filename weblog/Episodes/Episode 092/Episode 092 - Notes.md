@@ -1,0 +1,43 @@
+## _Hot Topics of the Parking Lot_ 00:00:00
+- [Craft](https://www.craft.do/) ✏️
+- [Freeform](https://en.wikipedia.org/wiki/Freeform_%28Apple%29) ❤️
+- [Trafalgar Square](https://en.wikipedia.org/wiki/Trafalgar_Square)
+- [Pigeon](https://en.wikipedia.org/wiki/Columbidae) 🐦
+- Not [Pidgin](https://en.wikipedia.org/wiki/Pidgin_%28software%29) 
+- [Camry](https://en.wikipedia.org/wiki/Toyota_Camry) 🚗
+- [Rivian](https://en.wikipedia.org/wiki/Rivian_R1S) 🚙
+- [Parking Lot](https://en.wikipedia.org/wiki/Parking_lot)
+- [Clothes Line Pegs / Pins](https://en.wikipedia.org/wiki/Clothespin) 👕
+- [Hills Hoist](https://en.wikipedia.org/wiki/Hills_Hoist)
+- [Your jacket is now dry!](https://www.youtube.com/watch?v=VZ73TLa_aL4) 
+- [Clothes Line](https://en.wikipedia.org/wiki/Clothes_line)
+- [Freemantle Doctor](https://en.wikipedia.org/wiki/Fremantle_Doctor) 🌬️
+- [Adelaide](https://en.wikipedia.org/wiki/Adelaide) 🇦🇺
+- [Australia invented Wi-Fi?](https://en.wikipedia.org/wiki/Wi-Fi) 📶
+- [Martin’s Pigeon Picture](https://cdn.hemisphericviews.com/092_pigeons.jpg) 📷
+- [Really Specific Stories](https://rsspod.net) 🎙️
+- [Baldur’s Gate III](https://en.wikipedia.org/wiki/Baldur's_Gate_III) 🎮
+- [Our Ultra-popular YouTube Channel](https://www.youtube.com/@hemisphericviews) 📺
+- [FusionCast](https://fusioncast.rambo.codes/) 
+- [Archive.org](https://archive.org) 🔏
+- [Pocket Casts](https://pocketcasts.com/) 🎧
+- [RSS](https://en.wikipedia.org/wiki/RSS)
+- [Power of Attorney](https://en.wikipedia.org/wiki/Power_of_attorney) 🧑‍⚖️
+- This Episode on YouTube
+- Nice work Eric! 🏆
+- [Arcadia Sports](https://apps.apple.com/us/app/arcadia-sports/id1645125796) 🏀
+- [Studio Display](https://en.wikipedia.org/wiki/Apple_Studio_Display) 
+- “Sushi Mouse” = [Magic Mouse](https://en.wikipedia.org/wiki/Magic_Mouse) 🐭
+- Andrew’s Embarrassing Desk 😬
+
+## _We’re Going to the Mall!_ 00:36:40
+- “Logi Master Thingo” = [Logitech MX Master 3S](https://www.logitech.com/en-us/products/mice/mx-master-3s.html) 🐁
+- [macOS Spaces](https://support.apple.com/guide/mac-help/work-in-multiple-spaces-mh14112/mac) 👾
+- [Playdate](https://play.date/) 🟨
+- [Kicooya](https://play.date/games/kicooya/) 🎵
+- [Arcade Fire - We](https://en.wikipedia.org/wiki/We_%28Arcade_Fire_album%29) 🎹
+- [Glass](https://glass.photo/) 📷
+- [Natasha’s Glass](https://glass.photo/ntkf)
+- [Donut Camera](https://cdn.hemisphericviews.com/092_donut.jpg) 🍩
+- [Martin’s Glass](https://glass.photo/martinfeld)
+- [Andrew’s Glass](https://www.flickr.com/photos/andrewcanion)
