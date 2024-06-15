@@ -1,15 +1,3 @@
-# Hemispheric Views Episode 113 - Notes
-#Podcasting/Show Notes#
-
-Title Options:
-* Smuggle a Cupcake!
-* Coffee is Breakfast!
-* Time Timers Across The World!
-
-
-Description: That pesky intro is back for some reason. No pencil followup this week. We are right in the middle of Arcadia June! A windows app in a trojan macOS horse. Travel Corner is back! What do you travel with? Let’s get breakfast at the hotel! Do you remember robots from the 80s? Where is Andrew’s robot he was promised!?
-
-
 ## One Prime Plus! 00:00:00
 * [One Prime Plus Dot Com](https://oneprimeplus.com) 🛡️
 * [Helvetica](https://docs.google.com/document/d/1rKQkTlJcvm2-tqBedtzqjeFGW-3XhWKHgmp6Yscef_Q/edit)
